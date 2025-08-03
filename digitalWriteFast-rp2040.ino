@@ -12,4 +12,16 @@ void setup() {
 void loop() {
   digitalWriteFast(pin, HIGH);
   digitalWriteFast(pin, LOW);
+  digitalWriteFast(pin, HIGH);
+  digitalWriteFast(pin, LOW);
+  digitalWriteFast(pin, HIGH);
+  digitalWriteFast(pin, LOW);
+  digitalWriteFast(pin, HIGH);
+  digitalWriteFast(pin, LOW);
+  digitalWriteFast(pin, HIGH);
+  digitalWriteFast(pin, LOW);
+  digitalWriteFast(pin, HIGH);
+  digitalWriteFast(pin, LOW);
+  digitalWriteFast(pin, HIGH);
+  digitalWriteFast(pin, LOW);
 }
