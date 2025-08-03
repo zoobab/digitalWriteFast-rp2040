@@ -13,7 +13,7 @@ Timings
 
 Should be able to produce 8ns blocks.
 
-Here is a capture of the ```speedtest.ino``` loaded into Wowki simulator, and
+Here is a capture of the ```digitalWriteFast-rp2040.ino``` loaded into Wowki simulator, and
 the VCD captured file loaded into ```https://vc.drom.io``` :
 
 ![rp2040-wowki-8ns)](rp2040-wowki-8ns.png)
