@@ -17,7 +17,7 @@ Should be 8ns at default 240mhz speed. (untested)
 Here is a capture of the ```speedtest.ino``` loaded into Wowki simulator, and
 the VCD captured file loaded into ```https://vc.drom.io``` :
 
-![rp2040-wowki-16ns)](rp2040-wowki-16ns.png)
+![rp2040-wowki-8ns)](rp2040-wowki-8ns.png)
 
 Links
 =====
