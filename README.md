@@ -11,8 +11,7 @@ Found those 2 lines to speed pin toggling on an RP2040:
 Timings
 =======
 
-Should be 16ns at default 120mhz speed.
-Should be 8ns at default 240mhz speed. (untested)
+Should be able to produce 8ns blocks.
 
 Here is a capture of the ```speedtest.ino``` loaded into Wowki simulator, and
 the VCD captured file loaded into ```https://vc.drom.io``` :
