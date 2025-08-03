@@ -1,7 +1,7 @@
-digitalWriteFast for RP2040
+digitalWriteFast for RP2040 (Arduino IDE)
 ===========================
 
-Found those 2 lines to speed pin toggling on an RP2040:
+Found those 2 lines to your file.ino to speed up pin toggling on an RP2040:
 
 ```
 #define digitalWriteFast(pin,val) (val ? sio_hw->gpio_set = (1 << pin) : sio_hw->gpio_clr = (1 << pin))
