@@ -26,3 +26,4 @@ Links
 * Inspired from: https://academy.cba.mit.edu/classes/input_devices/step/hello.txrx2.RP2040.ino
 * digitalWriteFast library (for AVR only): https://github.com/ArminJo/digitalWriteFast
 * FastPin for ESP32: https://github.com/jzolee/FastPin
+* funDigitalRead for ch32v003 https://github.com/cnlohr/ch32fun/blob/master/ch32fun/ch32fun.h#L868
