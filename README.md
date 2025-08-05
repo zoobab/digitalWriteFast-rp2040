@@ -8,6 +8,11 @@ Found those 2 lines to your file.ino to speed up pin toggling on an RP2040:
 #define digitalReadFast(pin) ((1 << pin) & sio_hw->gpio_in)
 ```
 
+Todo
+====
+
+Add one function for ``pinModeFast`.
+
 Timings
 =======
 
