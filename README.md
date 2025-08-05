@@ -23,7 +23,7 @@ Links
 
 * VCD online visualisator: https://vc.drom.io
 * Wowki rp2040 simulator with a Logic Analyzer capable to output VCD files: https://wokwi.com/projects/438276508708540417
-* Inspired from: https://academy.cba.mit.edu/classes/input_devices/step/hello.txrx2.RP2040.ino
+* Inspired from Neil Gershenfeld rp2040 RP2040 XIAO two-channel transmit-receive step-response hello-world: https://academy.cba.mit.edu/classes/input_devices/step/hello.txrx2.RP2040.ino
 * digitalWriteFast library (for AVR only): https://github.com/ArminJo/digitalWriteFast
 * FastPin for ESP32: https://github.com/jzolee/FastPin
 * funDigitalRead for ch32v003 https://github.com/cnlohr/ch32fun/blob/master/ch32fun/ch32fun.h#L868
