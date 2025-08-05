@@ -25,3 +25,4 @@ Links
 * Wowki rp2040 simulator with a Logic Analyzer capable to output VCD files: https://wokwi.com/projects/438276508708540417
 * Inspired from: https://academy.cba.mit.edu/classes/input_devices/step/hello.txrx2.RP2040.ino
 * digitalWriteFast library (for AVR only): https://github.com/ArminJo/digitalWriteFast
+* FastPin for ESP32: https://github.com/jzolee/FastPin
