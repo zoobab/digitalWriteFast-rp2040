@@ -11,7 +11,7 @@ Found those 2 lines to your file.ino to speed up pin toggling on an RP2040:
 Todo
 ====
 
-Add one function for ``pinModeFast`.
+Add one function for `pinModeFast`.
 
 Timings
 =======
